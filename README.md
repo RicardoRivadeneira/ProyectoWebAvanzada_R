@@ -40,4 +40,4 @@ Una vez que ambos servidores estén en ejecución, podrás interactuar con la ap
 Este proyecto, aunque sencillo, es parte del desarrollo continuo que se está llevando a cabo, en línea con el proyecto del 2do parcial que aún está en desarrollo. El programa permite realizar acciones básicas como ingresar títulos y contenido, y se espera que evolucione como parte de futuras iteraciones del proyecto.
 
 ## Evidencia
-![Evidencia](./Evidencia/Ejecucion.png)
+![Evidencia](./Evidencia/Ejecución.jpg)
